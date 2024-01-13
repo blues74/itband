@@ -15,7 +15,6 @@ import Framework7 from 'framework7/bundle';
 import { pageRc } from './page-rc';
 
 const appEl = document.getElementById('app');
-const temp = '';
 
 // const isDev =
 //     /devitband/.test(window.location.href) ||
